@@ -8,6 +8,11 @@
   flex-direction: column;
   gap: 10px;
   background: #fff;
+  direction: rtl;
+  text-align: right;
+    h2 {
+    color: #797878;
+  }
 }
 
 .error {
